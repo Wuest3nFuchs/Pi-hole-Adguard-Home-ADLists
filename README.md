@@ -81,8 +81,6 @@ Bigdargon https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 
 Unchecky-ADS https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
 
-https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
-
 WindowsSpyBlocker https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 
 Firstparty-trackers https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
@@ -151,9 +149,6 @@ Gambling https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/g
 
 Proxies https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/proxies
 
-
-
-
 Streaming https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Streaming
 
 ## Malware 
@@ -175,6 +170,9 @@ http://phishing.mailscanner.info/phishing.bad.sites.conf
 https://raw.githubusercontent.com/blocklistproject/Lists/master/phishing.txt
 
 ## WIP
+
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
+
 https://www.technoy.de/lists/fake-streaming.txt
 
 https://www.technoy.de/lists/Suspicious.txt
