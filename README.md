@@ -2,6 +2,29 @@
 Ultimate Pi-hole &amp; Adguard Home ADLists
 
 
+        .;;,.
+        .ccccc:,.
+         :cccclll:.      ..,,
+          :ccccclll.   ;ooodc
+           'ccll:;ll .oooodc
+             .;cll.;;looo:.
+                 .. ','.
+                .',,,,,,'.
+              .',,,,,,,,,,.
+            .',,,,,,,,,,,,....
+          ....''',,,,,,,'.......
+        .........  ....  .........
+        ..........      ..........
+        ..........      ..........
+        .........  ....  .........
+          ........,,,,,,,'......
+            ....',,,,,,,,,,,,.
+               .',,,,,,,,,'.
+                .',,,,,,'.
+                  ..'''.
+
+
+
 
 ![pi-hole-banner](https://github.com/Wuest3nFuchs/Pihole-Adguard-Home-ADLists/assets/6052506/5192243c-6b82-4be2-8410-b4c5abec60d4) 
 # & 
