@@ -171,8 +171,17 @@ http://phishing.mailscanner.info/phishing.bad.sites.conf
 
 https://raw.githubusercontent.com/blocklistproject/Lists/master/phishing.txt
 
+## Coin/Crypto
+https://zerodot1.gitlab.io/CoinBlockerLists/list.txt
 
-## WIP
+https://zerodot1.gitlab.io/CoinBlockerLists/list_browser.txt
+
+https://zerodot1.gitlab.io/CoinBlockerLists/list_optional.txt
+
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/crypto
+
+
+# WIP
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
 
 https://www.technoy.de/lists/fake-streaming.txt
@@ -186,16 +195,3 @@ https://www.technoy.de/lists/FireTVAds.txt
 https://www.technoy.de/lists/Session-Replay.txt
 
 https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
-
-
-# Coin/Crypto
-https://zerodot1.gitlab.io/CoinBlockerLists/list.txt
-
-https://zerodot1.gitlab.io/CoinBlockerLists/list_browser.txt
-
-https://zerodot1.gitlab.io/CoinBlockerLists/list_optional.txt
-
-https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/crypto
-
-
-
