@@ -25,8 +25,6 @@ Perflyst and Dandelion Sprout's Smart-TV Blocklist https://adguardteam.github.io
 
 Peter Lowe's Blocklist https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
 
-WindowsSpyBlocker - Hosts spy rules https://adguardteam.github.io/HostlistsRegistry/assets/filter_23.txt
-
 Phishing URL Blocklist (PhishTank and OpenPhish) https://adguardteam.github.io/HostlistsRegistry/assets/filter_30.txt
 
 Dandelion Sprout's Anti-Malware List https://adguardteam.github.io/HostlistsRegistry/assets/filter_12.txt
@@ -65,8 +63,6 @@ Bigdargon https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 
 Unchecky-ADS https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
 
-WindowsSpyBlocker https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
-
 Firstparty-trackers https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 
 notrack-blocklists https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
@@ -92,7 +88,7 @@ Easyprivacy https://v.firebog.net/hosts/Easyprivacy.txt
 Adblockplus.org/easylist https://v.firebog.net/hosts/Easylist.txt
 
 
-## Various
+## Various Ads/Malware
 Android-tracking https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
 
 SmartTV https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
@@ -127,9 +123,7 @@ Spotify https://raw.githubusercontent.com/w13d/adblockListABP-PiHole/master/Spot
 
 YTadsblacklist https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/domainlist.txt
 
-Win10Telemetry https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Win10Telemetry
 
-MS-Office-Telemetry https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/MS-Office-Telemetry
 
 Samsung https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/samsung
 
@@ -179,6 +173,18 @@ https://zerodot1.gitlab.io/CoinBlockerLists/list_browser.txt
 https://zerodot1.gitlab.io/CoinBlockerLists/list_optional.txt
 
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/crypto
+
+## Windows/Office Telemetry
+
+WindowsSpyBlocker - Hosts spy rules https://adguardteam.github.io/HostlistsRegistry/assets/filter_23.txt
+
+WindowsSpyBlocker https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+
+Win10Telemetry https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Win10Telemetry
+
+MS-Office-Telemetry https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/MS-Office-Telemetry
+
+
 
 
 # WIP
