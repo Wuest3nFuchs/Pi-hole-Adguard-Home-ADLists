@@ -13,6 +13,7 @@ Ultimate Pi-hole &amp; Adguard Home ADLists
 
 # TODO Sort & Order
 
+
 ## Adguard-Team-List
 AdGuard DNS filter https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 
@@ -31,7 +32,6 @@ Phishing URL Blocklist (PhishTank and OpenPhish) https://adguardteam.github.io/H
 Dandelion Sprout's Anti-Malware List https://adguardteam.github.io/HostlistsRegistry/assets/filter_12.txt
 
 Phishing Army https://phishing.army/download/phishing_army_blocklist_extended.txt
-
 
 Scam Blocklist by DurableNapkin https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
 
@@ -55,22 +55,6 @@ PolishFilters-Team https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/
 
 FadeMind/hosts/spam https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
 
-
-## Various firebog lists
-w3kbl https://v.firebog.net/hosts/static/w3kbl.txt
-
-AdguardDNS https://v.firebog.net/hosts/AdguardDNS.txt
-
-Admiral https://v.firebog.net/hosts/Admiral.txt
-
-Kowabit https://v.firebog.net/hosts/Kowabit.txt
-
-Prigent-Ads https://v.firebog.net/hosts/Prigent-Ads.txt
-
-Easyprivacy https://v.firebog.net/hosts/Easyprivacy.txt
-
-Adblockplus.org/easylist https://v.firebog.net/hosts/Easylist.txt
-
 Blacklist-Adservers https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 
 Disconnect.me https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
@@ -92,7 +76,23 @@ Multiparty-trackers https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
 ads-and-tracking-extended https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 
 
-## Various-PiHoleBlocklist
+## Various firebog lists
+w3kbl https://v.firebog.net/hosts/static/w3kbl.txt
+
+AdguardDNS https://v.firebog.net/hosts/AdguardDNS.txt
+
+Admiral https://v.firebog.net/hosts/Admiral.txt
+
+Kowabit https://v.firebog.net/hosts/Kowabit.txt
+
+Prigent-Ads https://v.firebog.net/hosts/Prigent-Ads.txt
+
+Easyprivacy https://v.firebog.net/hosts/Easyprivacy.txt
+
+Adblockplus.org/easylist https://v.firebog.net/hosts/Easylist.txt
+
+
+## Various
 Android-tracking https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
 
 SmartTV https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
@@ -151,6 +151,7 @@ Proxies https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pr
 
 Streaming https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Streaming
 
+
 ## Malware 
 https://www.technoy.de/lists/malware2.txt
 
@@ -159,6 +160,7 @@ https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 
 https://raw.githubusercontent.com/blocklistproject/Lists/master/malware.txt
+
 
 ## Phishing
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe
@@ -169,8 +171,8 @@ http://phishing.mailscanner.info/phishing.bad.sites.conf
 
 https://raw.githubusercontent.com/blocklistproject/Lists/master/phishing.txt
 
-## WIP
 
+## WIP
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
 
 https://www.technoy.de/lists/fake-streaming.txt
@@ -183,13 +185,17 @@ https://www.technoy.de/lists/FireTVAds.txt
 
 https://www.technoy.de/lists/Session-Replay.txt
 
-https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/crypto
+https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 
+
+# Coin/Crypto
 https://zerodot1.gitlab.io/CoinBlockerLists/list.txt
 
 https://zerodot1.gitlab.io/CoinBlockerLists/list_browser.txt
 
 https://zerodot1.gitlab.io/CoinBlockerLists/list_optional.txt
 
-https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/crypto
+
+
 
