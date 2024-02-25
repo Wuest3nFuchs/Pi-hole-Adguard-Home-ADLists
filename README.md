@@ -14,7 +14,7 @@ Ultimate Pi-hole &amp; Adguard Home ADLists
 # TODO Sort & Order
 
 
-## Adguard-Team-List
+## ADList
 AdGuard DNS filter https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 
 Steven Black's List https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
