@@ -185,6 +185,22 @@ Win10Telemetry https://raw.githubusercontent.com/RPiList/specials/master/Blockli
 MS-Office-Telemetry https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/MS-Office-Telemetry
 
 
+# WIP
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
+
+https://www.technoy.de/lists/fake-streaming.txt
+
+https://www.technoy.de/lists/Suspicious.txt
+
+https://www.technoy.de/lists/blocklist.txt
+
+https://www.technoy.de/lists/FireTVAds.txt
+
+https://www.technoy.de/lists/Session-Replay.txt
+
+https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
+
+
 # Whitelist
 ## Google Maps and other Google services
 
@@ -581,20 +597,3 @@ Swedish streaming services
 svtplay (enable continuing where you left off)
 
 pihole -w analytics.svt.se
-
-# WIP
-https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
-
-https://www.technoy.de/lists/fake-streaming.txt
-
-https://www.technoy.de/lists/Suspicious.txt
-
-https://www.technoy.de/lists/blocklist.txt
-
-https://www.technoy.de/lists/FireTVAds.txt
-
-https://www.technoy.de/lists/Session-Replay.txt
-
-https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
-
-
